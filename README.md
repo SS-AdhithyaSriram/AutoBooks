@@ -70,9 +70,9 @@ AutoBooks is a Hackathon-grade system that automates accounting document process
         ┌────────┴────────┐       │
         │                 │       │
         ▼                 ▼       │
-┌──────────────────┐             │
-│ LEDGER           │             │
-│ CLASSIFIER       │◄────────────┘
+┌──────────────────┐              │
+│ LEDGER           │              │
+│ CLASSIFIER       │◄─────────────┘
 └────────────────┬─┘
                  │
                  ▼
